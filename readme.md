@@ -4,7 +4,9 @@
   ![MIT](https://img.shields.io/badge/license-MIT-green)
 
   ## Description
-  a program that helps the user generate a read me file for their project!
+  A program that helps the user generate a read me file for their project!
+
+![Demonstration]
 
   ## Table of Contents
   1. [Installation](#installation)
@@ -25,7 +27,7 @@
   This project is licensed under the MIT license.
 
   ## Contributing
-  undefined
+  Troy
 
   ## Tests
   To run tests, run the following command:
